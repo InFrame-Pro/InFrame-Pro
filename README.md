@@ -16,8 +16,8 @@
 
 ## 🛠 Support & Contact
 For technical support, license key issues, or inquiries, please contact us:
-- **Email:** [TU_CORREO_AQUÍ]
-- **Developer:** [TU_NOMBRE_O_MARCA]
+- **Email:** support@getinframe.com
+- **Developer:** Powered by Onyx
 
 ## 📜 Terms of Service
 By purchasing InFrame PRO, you receive a digital license key to unlock the extension's full features. All data is stored locally on your device to ensure privacy.
